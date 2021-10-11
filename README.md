@@ -8,3 +8,4 @@ Using PYQT, we created the windows of the system.
 We stored the information about the warnings that the driver received in the FIREBASE database so that the information would be saved for the driver from any device from which he entered.
 
 ![4](https://user-images.githubusercontent.com/45630158/136717342-2e705c2c-fb70-41c1-894a-16a6c3e50cc8.png)
+[![Watch the video]](https://drive.google.com/file/d/183qrZCqGBhzEB-Grs9BvSDJIDui_7A2I/view?usp=sharing)
