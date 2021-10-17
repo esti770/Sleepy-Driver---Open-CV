@@ -1,7 +1,7 @@
 # sleepy-driver
 Due to the large number of accidents caused by the driver falling asleep while driving, we proposed a solution to solve this problem. The camera records the driver for the entire drive, and when it detects that the driver is asleep, it will sound a beep and a human voice telling it to wake up to wake the driver.
 
-We used the OPEN CV library to process the image and identify whether the driver closed his eyes.
+We used the OpenCV library to process the image and identify whether the driver closed his eyes.
 
 Using PYQT, we created the windows of the system.
 
