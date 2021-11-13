@@ -4,14 +4,7 @@ import pyrebase
 from datetime import datetime
 
 FIREBASE_CONFIG = {
-    'apiKey': "AIzaSyDeoRSZVIZMQa2qRXyfkUNQucPfnhholIo",
-    'authDomain': "sleepydriverdb.firebaseapp.com",
-    'projectId': "sleepydriverdb",
-    'storageBucket': "sleepydriverdb.appspot.com",
-    'messagingSenderId': "179046677457",
-    'databaseURL':'https://sleepydriverdb-default-rtdb.firebaseio.com',
-    'appId': "1:179046677457:web:a23868cf71d24102e2bef0",
-    'measurementId': "G-BD5TJ2EB7M"
+ ****
 }
 
 
