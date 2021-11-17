@@ -53,7 +53,7 @@ def check_eyes(gender, volume):
                 if len(eyes) == 0:
                     flag += 1
                     print('no')
-                    if flag > 7:
+                    if flag > 1:
                         frequency = 2500  # Set Frequency To 2500 Hertz
                         duration = 1000  # Set Duration To 1000 ms == 1 second
                         winsound.Beep(frequency, duration)
